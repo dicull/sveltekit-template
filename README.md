@@ -1,3 +1,15 @@
+# sveltekit-template
+supabase + sveltekit
+
+
+DB  
+postgresql on supabase 
+
+UI  
+[shadcn-svelte](https://www.shadcn-svelte.com/docs/installation) (Bit UI + Melt UI + Tailwind)
+
+
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
